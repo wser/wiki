@@ -1,0 +1,4 @@
+github:
+  enabled: true
+  clientId: GIT_CLIENT_ID
+  clientSecret: GIT_CLIENT_SECRET
