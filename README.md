@@ -1,1 +1,1 @@
-// add text in the nano text editor, the save in filegit add README.md
+obligatory README.md
